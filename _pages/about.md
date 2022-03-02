@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ph.D. student, <a href='#https://team.inria.fr/spades/team-members/'> SPADES team</a>, INRIA </p>
+    <p>Grenoble, France</p>
 
 news: true  # includes a list of news items
 #selected_papers: false # if true includes a list of papers marked as "selected={true}"
