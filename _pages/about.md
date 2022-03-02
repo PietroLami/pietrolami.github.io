@@ -15,8 +15,8 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at Inria, my research topic focus on the theory of concurrent reversible programming languages and its application to the debugging of concurrent programs. Two main studies are proposed:
+I am a Ph.D. student at Inria, my research topic focuses on the theory of concurrent reversible programming languages and its application to the debugging of concurrent programs. Two main studies are proposed:
 1. the automated derivation of a reversible semantics for concurrent languages;
 2. the study of transaction programming abstractions through the lens of reversibiility. 
 
-The supervision of my Ph.D. are [Ivan Lanese](http://www.cs.unibo.it/~lanese/) and [Jean-Bernard Stefani](https://team.inria.fr/spades/jean-bernard-stefani/).
+The supervisors of my Ph.D. are [Ivan Lanese](http://www.cs.unibo.it/~lanese/) and [Jean-Bernard Stefani](https://team.inria.fr/spades/jean-bernard-stefani/).
