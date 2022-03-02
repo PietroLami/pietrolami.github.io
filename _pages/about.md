@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Ph.D. student, <a href='#https://team.inria.fr/spades/team-members/'> SPADES team</a>, INRIA </p>
+    <p>Ph.D. student, <a href='#https://team.inria.fr/spades/team-members/'> SPADES team</a>, <a href='#https://www.inria.fr/en'> INRIA team</a> </p>
     <p>Grenoble, France</p>
 
 news: true  # includes a list of news items
