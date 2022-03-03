@@ -1,8 +1,6 @@
 ---
 layout: page
-title: curriculm vitae
-permalink: /cv/
-description: my curriculm vitae. 
+permalink: /curriculm vitae/
 nav: false
 ---
 
