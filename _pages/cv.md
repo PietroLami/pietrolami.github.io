@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /curriculm vitae/
+permalink: /cv/
 nav: false
 ---
 
