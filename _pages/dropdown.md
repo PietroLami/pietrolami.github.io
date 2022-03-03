@@ -1,12 +1,10 @@
 ---
 layout: page
 title: submenus
-nav: false
-dropdown: false
+nav: true
+dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: curriculm vitae
+      permalink: /cv/
     - title: divider
-    - title: projects
-      permalink: /projects/
 ---
