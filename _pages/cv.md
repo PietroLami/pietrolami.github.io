@@ -3,7 +3,7 @@ layout: page
 title: curriculm vitae
 permalink: /cv/
 description: my curriculm vitae. 
-nav: true
+nav: false
 ---
 
 ## Your Name
