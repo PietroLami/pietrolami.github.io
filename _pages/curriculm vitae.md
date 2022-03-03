@@ -66,7 +66,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+**Makers Academy (start_date to end_date)**
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -76,14 +76,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 
-#### University of Bologna (2018 to 2020)
-
+**University of Bologna (2018 to 2020)**  
+_Master's degree in computer science_  
 - Subject, any specialisms
 - 110/110 e Lode
 - Other cool stuff
 
-#### University of Bologna (2015 to 2018)
-
+ **University of Bologna (2015 to 2018)**  
+_Bachelor's degree in computer science_  
 - Subject, any specialisms
 - 100/110
 - Other cool stuff
