@@ -1,7 +1,7 @@
 ---
 layout: page
+title: curriculm vitae
 permalink: /cv/
-title: cv
 description: my curriculm vitae. 
 nav: true
 ---
