@@ -1,8 +1,8 @@
 ---
 layout: page
+permalink: /cv/
 title: 
 description: 
-permalink: /cv/
 nav: false
 ---
 
