@@ -6,8 +6,8 @@ description:
 nav: false
 ---
 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.-->
+I am from Bologna, Italy, where I lived and studied computer science. I currently live in Grenoble, France, where I am proceeding with my studies and getting to know a new culture and language.
 
 <!-- ## Projects 
 
@@ -25,7 +25,7 @@ _Your job title_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
+**Prometeia** (start-date to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
@@ -75,10 +75,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+
+#### University of Bologna (2018 to 2020)
 
 - Subject, any specialisms
-- Grade
+- 110/110 e Lode
+- Other cool stuff
+
+#### University of Bologna (2015 to 2018)
+
+- Subject, any specialisms
+- 100/110
 - Other cool stuff
 
 #### Any other qualifications
