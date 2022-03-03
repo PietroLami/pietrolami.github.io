@@ -9,14 +9,14 @@ nav: false
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-## Projects
+<!-- ## Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
-
-
+ -->
+***
 
 ## Work Experience
 
@@ -30,7 +30,7 @@ _Your job title_
 
 - Any experience relevent to software development
 
-
+***
 
 ## Skills
 
@@ -62,7 +62,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-
+***
 
 ## Education
 
@@ -84,6 +84,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
+
+***
 
 ## Hobbies
 
