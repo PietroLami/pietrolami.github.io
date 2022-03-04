@@ -43,7 +43,7 @@ _Intership_
 
 **University of Bologna** (2018)  
 _Intership_
-- This internship was structured in two parts: the first part was the study of <a href='#https://www.tiny.cloud/'>TinyMCE</a> software (which is an online rich-text editor released as open-source software), while the second part involved a practical development of a web application that managed the editing of a document by a multitude of users.
+- This internship was structured in two parts: the first part was the study of [TinyMCE](https://www.tiny.cloud/) software (which is an online rich-text editor released as open-source software), while the second part involved a practical development of a web application that managed the editing of a document by a multitude of users.
 
 ***
 
