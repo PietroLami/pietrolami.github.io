@@ -26,7 +26,7 @@ _Your job title_
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 -->
 
-**Inria** (01/10/2021 - CURRENT)  
+**Inria** (10/2021 - CURRENT)  
 _Ph.D. Student_
 
 <!-- 
