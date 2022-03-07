@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: cv
 permalink: /cv/
-title: Curriculm Vitae
+title: curriculm vitae
 description: 
 nav: true
 ---
