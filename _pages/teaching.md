@@ -1,13 +1,12 @@
 ---
 layout: cv
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: 
 nav: true
 ---
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.-->
-I am from Bologna, Italy, where I lived and studied computer science. I currently live in Grenoble, France, where I am proceeding with my studies and getting to know a new culture and language.
 
 <!-- ## Projects 
 
@@ -20,11 +19,11 @@ I am from Bologna, Italy, where I lived and studied computer science. I currentl
 
 ## Course
 
-- **Architettura degli Elaboratori**   
-<!-- 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
--->
-- **Logica per Informatica**
+- **Architettura degli Elaboratori** (academic year 2023/2024)
+I am toutor a module of Logic Foundations of Computer Architecture ("Architettura degli Elaboratori"). The teaching material (in Italian only) can be found [here](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/350960).
+<!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
+- **Logica per Informatica** (academic year 2023/2024)
+I am toutor a module of Logics for Informatic ("Logica per l'Informatica"). The teaching material (in Italian only) can be found [here](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/455095).
 <!-- 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 -->
