@@ -1,7 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: curriculm vitae
+layout: teaching
+permalink: /teaching/
+title: Teaching
 description: 
 nav: true
 ---
