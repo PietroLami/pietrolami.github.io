@@ -19,6 +19,6 @@ nav: true
 # Courses
 - **Teaching tutor - University of Bologna** (academic year 2023/2024):
   
-  -  [***Computer Architecture***](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/350960)
+  -  ***[Computer Architecture](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/350960)***
     
-  -  [***Logics for Informatic***](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/455095)
+  -  ***[Logics for Informatic](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/455095)***
