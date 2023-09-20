@@ -21,7 +21,7 @@ nav: true
 
 - **Architettura degli Elaboratori** (academic year 2023/2024)
   
-  I am toutor a module of Computer Architecture ("Architettura degli Elaboratori"). The teaching material (in Italian only) can be found [here](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/350960).
+  I am toutor a module of Computer Architecture ("Architettura degli Elaboratori"). The teaching material (in Italian only) can be found [here](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/350960).
 <!-- - Any experience, including roles and responsibilities and results achived in bullet point format.-->
 - **Logica per Informatica** (academic year 2023/2024)
   
